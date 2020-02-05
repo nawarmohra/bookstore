@@ -1,0 +1,2038 @@
+
+@media only screen and (max-width: 1199px) and (min-width: 600px){
+	.container_12 {
+		margin-left: auto;
+		margin-right: auto;
+		width: 100%;
+		max-width: 1200px;
+		min-width: 600px;
+	}}
+	@media only screen and (max-width: 616px){
+	.container_12 {
+		margin-left: auto;
+		margin-right: auto;
+		width: 100%;
+		max-width: 600px;
+		min-width: 320px;
+		display: block;
+	}}
+
+#Home {
+	position: absolute;
+	width: 1920px;
+	height: 3322px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Home;
+	--web-view-id: Home;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Rectangle_30 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 3322px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 481px;
+	left: 0px;
+	top: 221px;
+}
+#menu {
+	position: absolute;
+	width: 888px;
+	height: 18px;
+	left: 172px;
+	top: 161px;
+	overflow: visible;
+}
+#Romance {
+	position: absolute;
+	left: 441px;
+	top: 1px;
+	overflow: visible;
+	width: 86px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Classic_Books {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: shop_grid.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Kids {
+	position: absolute;
+	left: 162px;
+	top: 1px;
+	overflow: visible;
+	width: 40px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Thrillers {
+	position: absolute;
+	left: 236px;
+	top: 1px;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#History {
+	position: absolute;
+	left: 343px;
+	top: 1px;
+	overflow: visible;
+	width: 64px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Discount {
+	position: absolute;
+	left: 561px;
+	top: 1px;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#About_us {
+	position: absolute;
+	left: 676px;
+	top: 1px;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Contact_us {
+	position: absolute;
+	left: 791px;
+	top: 0px;
+	overflow: visible;
+	width: 98px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#BOOK_ON_SALE_TODAY_ {
+	position: absolute;
+	left: 752px;
+	top: 761px;
+	overflow: visible;
+	width: 443px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(11,55,44,1);
+}
+#KIDS_BOOKS {
+	position: absolute;
+	left: 839px;
+	top: 1459px;
+	overflow: visible;
+	width: 243px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(11,55,44,1);
+}
+#NOVELS {
+	position: absolute;
+	left: 884px;
+	top: 2164px;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(11,55,44,1);
+}
+.Rectangle_23 {
+	position: absolute;
+	overflow: visible;
+	width: 379px;
+	height: 225px;
+	left: 1362px;
+	top: 2226px;
+}
+#Daisy_Jones_by_TAYLOR_JENKINS {
+	position: absolute;
+	left: 1528px;
+	top: 2264px;
+	overflow: visible;
+	width: 186px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,46,35,1);
+}
+#ID165_SEK_10__discount {
+	position: absolute;
+	left: 1528px;
+	top: 2365px;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,46,35,1);
+}
+#Category__Romance {
+	position: absolute;
+	left: 1528px;
+	top: 2331px;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,46,35,1);
+}
+#Group_18 {
+	position: absolute;
+	width: 379px;
+	height: 225px;
+	left: 172px;
+	top: 834px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: single_Book.html;
+	cursor: pointer;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 379px;
+	height: 225px;
+	left: 0px;
+	top: 0px;
+}
+#Industrial_Therapy_by_Glenda_L {
+	position: absolute;
+	left: 166px;
+	top: 38px;
+	overflow: visible;
+	width: 162px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,46,35,1);
+}
+#ID165_SEK_50__discount {
+	position: absolute;
+	left: 166px;
+	top: 139px;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,46,35,1);
+}
+#Category__Classed_Books {
+	position: absolute;
+	left: 166px;
+	top: 105px;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,46,35,1);
+}
+#ID9261014_M {
+	position: absolute;
+	width: 98px;
+	height: 149px;
+	left: 34px;
+	top: 38px;
+	overflow: visible;
+}
+#Group_25 {
+	position: absolute;
+	width: 379px;
+	height: 225px;
+	left: 172px;
+	top: 1081px;
+	overflow: visible;
+}
+.Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 379px;
+	height: 225px;
+	left: 0px;
+	top: 0px;
+}
+#Electronic_Life_by_Michael_Cri {
+	position: absolute;
+	left: 166px;
+	top: 38px;
+	overflow: visible;
+	width: 179px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,46,35,1);
+}
+#ID210_SEK_10__discount {
+	position: absolute;
+	left: 166px;
+	top: 139px;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,46,35,1);
+}
+#Category__Classed_Books_bm {
+	position: absolute;
+	left: 166px;
+	top: 105px;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,46,35,1);
+}
+#ID9255399_M {
+	position: absolute;
+	width: 98px;
+	height: 149px;
+	left: 34px;
+	top: 38px;
+	overflow: visible;
+}
+#Group_26 {
+	position: absolute;
+	width: 379px;
+	height: 225px;
+	left: 180px;
+	top: 1518px;
+	overflow: visible;
+}
+.Rectangle_16 {
+	position: absolute;
+	overflow: visible;
+	width: 379px;
+	height: 225px;
+	left: 0px;
+	top: 0px;
+}
+#Maddi_s_fridge_by_Lois_Brandt {
+	position: absolute;
+	left: 166px;
+	top: 38px;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,46,35,1);
+}
+#ID599_SEK_50__discount {
+	position: absolute;
+	left: 166px;
+	top: 139px;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,46,35,1);
+}
+#Category__Kids_Books {
+	position: absolute;
+	left: 166px;
+	top: 105px;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,46,35,1);
+}
+#ID9261023_M {
+	position: absolute;
+	width: 98px;
+	height: 149px;
+	left: 34px;
+	top: 38px;
+	overflow: visible;
+}
+#Group_33 {
+	position: absolute;
+	width: 379px;
+	height: 225px;
+	left: 180px;
+	top: 1765px;
+	overflow: visible;
+}
+.Rectangle_20 {
+	position: absolute;
+	overflow: visible;
+	width: 379px;
+	height: 225px;
+	left: 0px;
+	top: 0px;
+}
+#Harry_Potter_Knitting__Magic_b {
+	position: absolute;
+	left: 166px;
+	top: 38px;
+	overflow: visible;
+	width: 189px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,46,35,1);
+}
+#ID230_SEK_0__discount {
+	position: absolute;
+	left: 166px;
+	top: 139px;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,46,35,1);
+}
+#Category__Kids_Books_by {
+	position: absolute;
+	left: 166px;
+	top: 105px;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,46,35,1);
+}
+#ID9781911641926 {
+	position: absolute;
+	width: 98px;
+	height: 149px;
+	left: 34px;
+	top: 38px;
+	overflow: visible;
+}
+#Group_34 {
+	position: absolute;
+	width: 379px;
+	height: 225px;
+	left: 165px;
+	top: 2223px;
+	overflow: visible;
+}
+.Rectangle_24 {
+	position: absolute;
+	overflow: visible;
+	width: 379px;
+	height: 225px;
+	left: 0px;
+	top: 0px;
+}
+#The_End_Of_The_Affair_by_Graha {
+	position: absolute;
+	left: 166px;
+	top: 37px;
+	overflow: visible;
+	width: 194px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,46,35,1);
+}
+#ID99_SEK_0__discount {
+	position: absolute;
+	left: 166px;
+	top: 139px;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,46,35,1);
+}
+#Category__Classed_Books_b {
+	position: absolute;
+	left: 166px;
+	top: 105px;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,46,35,1);
+}
+#ID9780099478447 {
+	position: absolute;
+	width: 98px;
+	height: 149px;
+	left: 34px;
+	top: 38px;
+	overflow: visible;
+}
+#Group_19 {
+	position: absolute;
+	width: 379px;
+	height: 225px;
+	left: 573px;
+	top: 834px;
+	overflow: visible;
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 379px;
+	height: 225px;
+	left: 0px;
+	top: 0px;
+}
+#Sword_of_Destiny_by_Andrzej_Sa {
+	position: absolute;
+	left: 166px;
+	top: 37px;
+	overflow: visible;
+	width: 199px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,46,35,1);
+}
+#ID109_SEK_0__discount {
+	position: absolute;
+	left: 166px;
+	top: 139px;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,46,35,1);
+}
+#Category__Classed_Books_ca {
+	position: absolute;
+	left: 166px;
+	top: 105px;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,46,35,1);
+}
+#ID9781473231085 {
+	position: absolute;
+	width: 98px;
+	height: 149px;
+	left: 34px;
+	top: 38px;
+	overflow: visible;
+}
+#Group_24 {
+	position: absolute;
+	width: 379px;
+	height: 225px;
+	left: 573px;
+	top: 1081px;
+	overflow: visible;
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 379px;
+	height: 225px;
+	left: 0px;
+	top: 0px;
+}
+#Cryogenic_systems_by_Randall_F {
+	position: absolute;
+	left: 166px;
+	top: 37px;
+	overflow: visible;
+	width: 182px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,46,35,1);
+}
+#ID250_SEK_20__discount {
+	position: absolute;
+	left: 166px;
+	top: 139px;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,46,35,1);
+}
+#Category__Classed_Books_cg {
+	position: absolute;
+	left: 166px;
+	top: 105px;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,46,35,1);
+}
+#ID9261016_M {
+	position: absolute;
+	width: 98px;
+	height: 149px;
+	left: 34px;
+	top: 38px;
+	overflow: visible;
+}
+#Group_27 {
+	position: absolute;
+	width: 379px;
+	height: 225px;
+	left: 581px;
+	top: 1518px;
+	overflow: visible;
+}
+.Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 379px;
+	height: 225px;
+	left: 0px;
+	top: 0px;
+}
+#Look_Inside_Your_Body_by_Louie {
+	position: absolute;
+	left: 166px;
+	top: 38px;
+	overflow: visible;
+	width: 204px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,46,35,1);
+}
+#ID200_SEK_10__discount {
+	position: absolute;
+	left: 166px;
+	top: 139px;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,46,35,1);
+}
+#Category__Kids_Books_cm {
+	position: absolute;
+	left: 166px;
+	top: 105px;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,46,35,1);
+}
+#ID9781409549475 {
+	position: absolute;
+	width: 98px;
+	height: 149px;
+	left: 34px;
+	top: 38px;
+	overflow: visible;
+}
+#Group_32 {
+	position: absolute;
+	width: 379px;
+	height: 225px;
+	left: 581px;
+	top: 1765px;
+	overflow: visible;
+}
+.Rectangle_17 {
+	position: absolute;
+	overflow: visible;
+	width: 379px;
+	height: 225px;
+	left: 0px;
+	top: 0px;
+}
+#Little_Women_by_Louisa_May_Alc {
+	position: absolute;
+	left: 166px;
+	top: 38px;
+	overflow: visible;
+	width: 185px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,46,35,1);
+}
+#ID300_SEK_50__discount {
+	position: absolute;
+	left: 166px;
+	top: 139px;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,46,35,1);
+}
+#Category__Kids_Books_cs {
+	position: absolute;
+	left: 166px;
+	top: 105px;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,46,35,1);
+}
+#ID9780099572961 {
+	position: absolute;
+	width: 98px;
+	height: 149px;
+	left: 34px;
+	top: 38px;
+	overflow: visible;
+}
+#Group_35 {
+	position: absolute;
+	width: 379px;
+	height: 225px;
+	left: 566px;
+	top: 2223px;
+	overflow: visible;
+}
+.Rectangle_21 {
+	position: absolute;
+	overflow: visible;
+	width: 379px;
+	height: 225px;
+	left: 0px;
+	top: 0px;
+}
+#The_Course_of_Love_by_Alain_de {
+	position: absolute;
+	left: 166px;
+	top: 37px;
+	overflow: visible;
+	width: 176px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,46,35,1);
+}
+#ID200_SEK_50__discount {
+	position: absolute;
+	left: 166px;
+	top: 139px;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,46,35,1);
+}
+#Category__Romance_cy {
+	position: absolute;
+	left: 166px;
+	top: 105px;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,46,35,1);
+}
+#ID9780241962138 {
+	position: absolute;
+	width: 98px;
+	height: 149px;
+	left: 34px;
+	top: 38px;
+	overflow: visible;
+}
+#Group_20 {
+	position: absolute;
+	width: 379px;
+	height: 225px;
+	left: 974px;
+	top: 837px;
+	overflow: visible;
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 379px;
+	height: 225px;
+	left: 0px;
+	top: 0px;
+}
+#Causality_by_Judea_Pearl {
+	position: absolute;
+	left: 166px;
+	top: 37px;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,46,35,1);
+}
+#ID580_SEK_10__discount {
+	position: absolute;
+	left: 166px;
+	top: 139px;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,46,35,1);
+}
+#Category__Classed_Books_c {
+	position: absolute;
+	left: 166px;
+	top: 105px;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,46,35,1);
+}
+#ID9780521895606 {
+	position: absolute;
+	width: 98px;
+	height: 149px;
+	left: 34px;
+	top: 38px;
+	overflow: visible;
+}
+#Group_23 {
+	position: absolute;
+	width: 379px;
+	height: 225px;
+	left: 974px;
+	top: 1084px;
+	overflow: visible;
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 379px;
+	height: 225px;
+	left: 0px;
+	top: 0px;
+}
+#Appreciating_dance_by_Harriet_ {
+	position: absolute;
+	left: 166px;
+	top: 38px;
+	overflow: visible;
+	width: 175px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,46,35,1);
+}
+#ID130_SEK_0__discount {
+	position: absolute;
+	left: 166px;
+	top: 139px;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,46,35,1);
+}
+#Category__Classed_Books_da {
+	position: absolute;
+	left: 166px;
+	top: 105px;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,46,35,1);
+}
+#ID9261010_M {
+	position: absolute;
+	width: 98px;
+	height: 149px;
+	left: 34px;
+	top: 38px;
+	overflow: visible;
+}
+#Group_28 {
+	position: absolute;
+	width: 379px;
+	height: 225px;
+	left: 982px;
+	top: 1521px;
+	overflow: visible;
+}
+.Rectangle_14 {
+	position: absolute;
+	overflow: visible;
+	width: 379px;
+	height: 225px;
+	left: 0px;
+	top: 0px;
+}
+#Heartstopper_Volume__by_ALICE_ {
+	position: absolute;
+	left: 166px;
+	top: 38px;
+	overflow: visible;
+	width: 199px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,46,35,1);
+}
+#ID146_SEK_0__discount {
+	position: absolute;
+	left: 166px;
+	top: 139px;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,46,35,1);
+}
+#Category__Kids_Books_dg {
+	position: absolute;
+	left: 166px;
+	top: 105px;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,46,35,1);
+}
+#ID9781444952773 {
+	position: absolute;
+	width: 98px;
+	height: 149px;
+	left: 34px;
+	top: 38px;
+	overflow: visible;
+}
+#Group_31 {
+	position: absolute;
+	width: 379px;
+	height: 225px;
+	left: 982px;
+	top: 1768px;
+	overflow: visible;
+}
+.Rectangle_18 {
+	position: absolute;
+	overflow: visible;
+	width: 379px;
+	height: 225px;
+	left: 0px;
+	top: 0px;
+}
+#Little_Women_by_Louisa_May_Alc_dk {
+	position: absolute;
+	left: 166px;
+	top: 38px;
+	overflow: visible;
+	width: 185px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,46,35,1);
+}
+#ID300_SEK_50__discount_dl {
+	position: absolute;
+	left: 166px;
+	top: 139px;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,46,35,1);
+}
+#Category__Kids_Books_dm {
+	position: absolute;
+	left: 166px;
+	top: 105px;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,46,35,1);
+}
+#ID9780147514011 {
+	position: absolute;
+	width: 98px;
+	height: 149px;
+	left: 34px;
+	top: 38px;
+	overflow: visible;
+}
+#Group_36 {
+	position: absolute;
+	width: 379px;
+	height: 225px;
+	left: 967px;
+	top: 2226px;
+	overflow: visible;
+}
+.Rectangle_22 {
+	position: absolute;
+	overflow: visible;
+	width: 379px;
+	height: 225px;
+	left: 0px;
+	top: 0px;
+}
+#Changing_Times_by_Jack_Sheffie {
+	position: absolute;
+	left: 166px;
+	top: 37px;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,46,35,1);
+}
+#ID108_SEK_0__discount {
+	position: absolute;
+	left: 166px;
+	top: 139px;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,46,35,1);
+}
+#Category__Romance___History {
+	position: absolute;
+	left: 166px;
+	top: 105px;
+	overflow: visible;
+	width: 194px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,46,35,1);
+}
+#ID9780552174046 {
+	position: absolute;
+	width: 98px;
+	height: 149px;
+	left: 34px;
+	top: 38px;
+	overflow: visible;
+}
+#Group_21 {
+	position: absolute;
+	width: 379px;
+	height: 225px;
+	left: 1369px;
+	top: 837px;
+	overflow: visible;
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 379px;
+	height: 225px;
+	left: 0px;
+	top: 0px;
+}
+#No_Fuss_Vegan_by_Roz_Purcell {
+	position: absolute;
+	left: 166px;
+	top: 38px;
+	overflow: visible;
+	width: 136px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,46,35,1);
+}
+#ID199_SEK_0__discount {
+	position: absolute;
+	left: 166px;
+	top: 139px;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,46,35,1);
+}
+#Category__Classed_Books_dy {
+	position: absolute;
+	left: 166px;
+	top: 105px;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,46,35,1);
+}
+#ID9781844884193 {
+	position: absolute;
+	width: 98px;
+	height: 149px;
+	left: 34px;
+	top: 38px;
+	overflow: visible;
+}
+#Group_22 {
+	position: absolute;
+	width: 379px;
+	height: 225px;
+	left: 1369px;
+	top: 1084px;
+	overflow: visible;
+}
+.Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 379px;
+	height: 225px;
+	left: 0px;
+	top: 0px;
+}
+#Faces_in_the_crowd_by_Valeria_ {
+	position: absolute;
+	left: 166px;
+	top: 38px;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,46,35,1);
+}
+#ID200_SEK_0__discount {
+	position: absolute;
+	left: 166px;
+	top: 139px;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,46,35,1);
+}
+#Category__Classed_Books_d {
+	position: absolute;
+	left: 166px;
+	top: 105px;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,46,35,1);
+}
+#ID8551960_M {
+	position: absolute;
+	width: 98px;
+	height: 149px;
+	left: 34px;
+	top: 38px;
+	overflow: visible;
+}
+#Group_29 {
+	position: absolute;
+	width: 379px;
+	height: 225px;
+	left: 1377px;
+	top: 1521px;
+	overflow: visible;
+}
+.Rectangle_15 {
+	position: absolute;
+	overflow: visible;
+	width: 379px;
+	height: 225px;
+	left: 0px;
+	top: 0px;
+}
+#Dr__Seuss_s_ABC_by_Dr__Seuss {
+	position: absolute;
+	left: 166px;
+	top: 37px;
+	overflow: visible;
+	width: 150px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,46,35,1);
+}
+#ID100_SEK_40__discount {
+	position: absolute;
+	left: 166px;
+	top: 139px;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,46,35,1);
+}
+#Category__Kids_Books_ea {
+	position: absolute;
+	left: 166px;
+	top: 105px;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,46,35,1);
+}
+#ID9780679882817 {
+	position: absolute;
+	width: 98px;
+	height: 149px;
+	left: 34px;
+	top: 38px;
+	overflow: visible;
+}
+#Group_30 {
+	position: absolute;
+	width: 379px;
+	height: 225px;
+	left: 1377px;
+	top: 1768px;
+	overflow: visible;
+}
+.Rectangle_19 {
+	position: absolute;
+	overflow: visible;
+	width: 379px;
+	height: 225px;
+	left: 0px;
+	top: 0px;
+}
+#Industrial_Therapy_by_Glenda_L_ee {
+	position: absolute;
+	left: 166px;
+	top: 38px;
+	overflow: visible;
+	width: 162px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,46,35,1);
+}
+#ID165_SEK_50__discount_ef {
+	position: absolute;
+	left: 166px;
+	top: 139px;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,46,35,1);
+}
+#Category__Kids_Books_eg {
+	position: absolute;
+	left: 166px;
+	top: 105px;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,46,35,1);
+}
+#ID9780385376716 {
+	position: absolute;
+	width: 98px;
+	height: 149px;
+	left: 34px;
+	top: 38px;
+	overflow: visible;
+}
+#ID9781787462144 {
+	position: absolute;
+	width: 98px;
+	height: 149px;
+	left: 1396px;
+	top: 2264px;
+	overflow: visible;
+}
+.Rectangle_25 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 408px;
+	left: 0px;
+	top: 2589px;
+}
+#Repeat_Grid_1 {
+	position: absolute;
+	width: 1920px;
+	height: 336px;
+	left: 0px;
+	top: 2998px;
+	overflow: hidden;
+}
+#Repeat_Grid_1_0 {
+	position: absolute;
+	width: 1920px;
+	height: 548px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_26 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 548px;
+	left: 0px;
+	top: 0px;
+}
+#Learn_about_new_offers_and_get {
+	position: absolute;
+	left: 421px;
+	top: 2635px;
+	overflow: visible;
+	width: 1080px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#Your_Full_Name {
+	position: absolute;
+	left: 491px;
+	top: 2726px;
+	overflow: visible;
+	width: 174px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Email_Address {
+	position: absolute;
+	left: 491px;
+	top: 2808px;
+	overflow: visible;
+	width: 163px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+.Rectangle_27 {
+	position: absolute;
+	overflow: visible;
+	width: 734px;
+	height: 58px;
+	left: 711px;
+	top: 2705px;
+}
+.Rectangle_28 {
+	position: absolute;
+	overflow: visible;
+	width: 734px;
+	height: 58px;
+	left: 711px;
+	top: 2787px;
+}
+.Rectangle_29 {
+	position: absolute;
+	overflow: visible;
+	width: 302px;
+	height: 58px;
+	left: 823.5px;
+	top: 2884px;
+}
+#Sing_Up_Now {
+	position: absolute;
+	left: 909px;
+	top: 2902px;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(45,108,115,1);
+}
+#Terms___Conditions {
+	position: absolute;
+	left: 1501px;
+	top: 3141px;
+	overflow: visible;
+	width: 177px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Our_Team_ {
+	position: absolute;
+	left: 1501px;
+	top: 3098px;
+	overflow: visible;
+	width: 96px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Privacy_policy {
+	position: absolute;
+	left: 1501px;
+	top: 3184px;
+	overflow: visible;
+	width: 123px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Group_6 {
+	position: absolute;
+	width: 162px;
+	height: 72.411px;
+	left: 174px;
+	top: 46.481px;
+	overflow: visible;
+}
+#Group_4 {
+	position: absolute;
+	width: 162px;
+	height: 72.411px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_5 {
+	position: absolute;
+	width: 160.261px;
+	height: 70.673px;
+	left: 0.869px;
+	top: 0.522px;
+	overflow: visible;
+}
+#NewspaperDesign_gestalten_book {
+	position: absolute;
+	width: 612.885px;
+	height: 586.117px;
+	left: 1193.838px;
+	top: 161.091px;
+	overflow: visible;
+}
+.Polygon_1 {
+	overflow: hidden;
+	position: absolute;
+	width: 44px;
+	height: 38px;
+	transform: matrix(1,0,0,1,1843,443) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Polygon_2 {
+	overflow: hidden;
+	position: absolute;
+	width: 44px;
+	height: 38px;
+	transform: matrix(1,0,0,1,14,443) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Group_39 {
+	position: absolute;
+	width: 128px;
+	height: 58px;
+	left: 1511px;
+	top: 54px;
+	overflow: visible;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+}
+#Sing_in {
+	position: absolute;
+	left: 45px;
+	top: 20px;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#login {
+	position: absolute;
+	width: 38px;
+	height: 38px;
+	left: 7px;
+	top: 10px;
+	overflow: visible;
+}
+#Group_16 {
+	position: absolute;
+	width: 789px;
+	height: 297px;
+	left: 171.5px;
+	top: 329.5px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: single_Book.html;
+	cursor: pointer;
+}
+#NEWSPAPER_DESIGN_EDITORIAL_DES {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+	width: 790px;
+	height: 297px;
+	text-align: left;
+	font-family: Shaky Hand Some Comic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 100px;
+	color: rgba(31,64,45,1);
+}
+.Rectangle_33 {
+	position: absolute;
+	overflow: visible;
+	width: 35px;
+	height: 3px;
+	left: 0.5px;
+	top: 238.5px;
+}
+.Rectangle_34 {
+	width: 35.769px;
+	height: 3.622px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(-171.5px, -329.5px) matrix(1,0,0,1,172,567.5735) rotate(90deg);
+	transform-origin: center;
+}
+#Group_7 {
+	position: absolute;
+	width: 218px;
+	height: 23px;
+	left: 864px;
+	top: 1349px;
+	overflow: visible;
+}
+#See_More_Books {
+	position: absolute;
+	left: 24px;
+	top: 0px;
+	overflow: visible;
+	width: 195px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(0,46,35,1);
+}
+.Rectangle_35 {
+	position: absolute;
+	overflow: visible;
+	width: 19px;
+	height: 2px;
+	left: 0px;
+	top: 10px;
+}
+.Rectangle_36 {
+	width: 19.004px;
+	height: 1.924px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(-864px, -1349px) matrix(1,0,0,1,864,1359.0399) rotate(90deg);
+	transform-origin: center;
+}
+#Group_8 {
+	position: absolute;
+	width: 218px;
+	height: 23px;
+	left: 864px;
+	top: 2033px;
+	overflow: visible;
+}
+#See_More_Books_f {
+	position: absolute;
+	left: 24px;
+	top: 0px;
+	overflow: visible;
+	width: 195px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(0,46,35,1);
+}
+.Rectangle_35_f {
+	position: absolute;
+	overflow: visible;
+	width: 19px;
+	height: 2px;
+	left: 0px;
+	top: 10px;
+}
+.Rectangle_36_f {
+	width: 19.004px;
+	height: 1.924px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(-864px, -1349px) matrix(1,0,0,1,864,1359.0399) rotate(90deg);
+	transform-origin: center;
+}
+#Group_9 {
+	position: absolute;
+	width: 218px;
+	height: 23px;
+	left: 864px;
+	top: 2478px;
+	overflow: visible;
+}
+#See_More_Books_ga {
+	position: absolute;
+	left: 24px;
+	top: 0px;
+	overflow: visible;
+	width: 195px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(0,46,35,1);
+}
+.Rectangle_35_ga {
+	position: absolute;
+	overflow: visible;
+	width: 19px;
+	height: 2px;
+	left: 0px;
+	top: 10px;
+}
+.Rectangle_36_ga {
+	width: 19.004px;
+	height: 1.924px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(-864px, -1349px) matrix(1,0,0,1,864,1359.0399) rotate(90deg);
+	transform-origin: center;
+}
+#cart {
+	position: absolute;
+	width: 64px;
+	height: 58px;
+	left: 1743px;
+	top: 54px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: my_account.html;
+	cursor: pointer;
+}
+.Rectangle_37 {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+}
+#shopping_cart {
+	position: absolute;
+	width: 37px;
+	height: 37px;
+	left: 14px;
+	top: 11px;
+	overflow: visible;
+}
+#wish {
+	position: absolute;
+	width: 64px;
+	height: 58px;
+	left: 1658px;
+	top: 54px;
+	overflow: visible;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+}
+#heart {
+	position: absolute;
+	width: 35px;
+	height: 35px;
+	left: 15px;
+	top: 13px;
+	overflow: visible;
+}
+#Group_15 {
+	position: absolute;
+	width: 280px;
+	height: 125.155px;
+	left: 165px;
+	top: 3087.481px;
+	overflow: visible;
+}
+#Group_13 {
+	position: absolute;
+	width: 280px;
+	height: 125.155px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_14 {
+	position: absolute;
+	width: 276.995px;
+	height: 122.15px;
+	left: 1.503px;
+	top: 0.901px;
+	overflow: visible;
+}
+#searchbar {
+	position: absolute;
+	width: 774px;
+	height: 58px;
+	left: 551px;
+	top: 46px;
+	overflow: visible;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 774px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+}
+#search {
+	position: absolute;
+	width: 38px;
+	height: 38px;
+	left: 719px;
+	top: 10px;
+	overflow: visible;
+}

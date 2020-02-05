@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>pickbook</title>
+<style id="applicationStylesheet" type="text/css">
+	.mediaViewInfo {
+		--web-view-name: readMore;
+		--web-view-id: readMore;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: readMore;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#readMore {
+		position: absolute;
+		width: 1920px;
+		height: 449px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: readMore;
+		--web-view-id: readMore;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	.Rectangle_30 {
+		position: absolute;
+		overflow: visible;
+		width: 100%;
+		height: 462px;
+		left: 0px;
+		top: 0px;
+	}
+	#Read_More {
+		position: absolute;
+		left: 843px;
+		top: 67px;
+		overflow: visible;
+		width: 195px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: AkzidenzGrotesk;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 40px;
+		color: rgba(11,55,44,1);
+	}
+	.Rectangle_1464 {
+		position: absolute;
+		overflow: visible;
+		width: 379px;
+		height: 225px;
+		left: 1325px;
+		top: 142px;
+	}
+	#Group_41 {
+		position: absolute;
+		width: 379px;
+		height: 225px;
+		left: 128px;
+		top: 139px;
+		overflow: visible;
+	}
+	.Rectangle_24 {
+		position: absolute;
+		overflow: visible;
+		width: 379px;
+		height: 225px;
+		left: 0px;
+		top: 0px;
+	}
+	#The_End_Of_The_Affair_by_Graha {
+		position: absolute;
+		left: 166px;
+		top: 37px;
+		overflow: visible;
+		width: 194px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: AkzidenzGrotesk;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(0,46,35,1);
+	}
+	#ID99_SEK_0__discount {
+		position: absolute;
+		left: 166px;
+		top: 139px;
+		overflow: visible;
+		width: 115px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: AkzidenzGrotesk;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(0,46,35,1);
+	}
+	#Category__Classed_Books {
+		position: absolute;
+		left: 166px;
+		top: 105px;
+		overflow: visible;
+		width: 171px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: AkzidenzGrotesk;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(0,46,35,1);
+	}
+	#ID9780099478447 {
+		position: absolute;
+		width: 98px;
+		height: 149px;
+		left: 34px;
+		top: 38px;
+		overflow: visible;
+	}
+	#Group_42 {
+		position: absolute;
+		width: 379px;
+		height: 225px;
+		left: 529px;
+		top: 139px;
+		overflow: visible;
+	}
+	.Rectangle_21 {
+		position: absolute;
+		overflow: visible;
+		width: 379px;
+		height: 225px;
+		left: 0px;
+		top: 0px;
+	}
+	#The_Course_of_Love_by_Alain_de {
+		position: absolute;
+		left: 166px;
+		top: 37px;
+		overflow: visible;
+		width: 176px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: AkzidenzGrotesk;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(0,46,35,1);
+	}
+	#ID200_SEK_50__discount {
+		position: absolute;
+		left: 166px;
+		top: 139px;
+		overflow: visible;
+		width: 126px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: AkzidenzGrotesk;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(0,46,35,1);
+	}
+	#Category__Romance {
+		position: absolute;
+		left: 166px;
+		top: 105px;
+		overflow: visible;
+		width: 134px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: AkzidenzGrotesk;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(0,46,35,1);
+	}
+	#ID9780241962138 {
+		position: absolute;
+		width: 98px;
+		height: 149px;
+		left: 34px;
+		top: 38px;
+		overflow: visible;
+	}
+	#Group_43 {
+		position: absolute;
+		width: 379px;
+		height: 225px;
+		left: 930px;
+		top: 142px;
+		overflow: visible;
+	}
+	.Rectangle_22 {
+		position: absolute;
+		overflow: visible;
+		width: 379px;
+		height: 225px;
+		left: 0px;
+		top: 0px;
+	}
+	#Changing_Times_by_Jack_Sheffie {
+		position: absolute;
+		left: 166px;
+		top: 37px;
+		overflow: visible;
+		width: 153px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: AkzidenzGrotesk;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(0,46,35,1);
+	}
+	#ID108_SEK_0__discount {
+		position: absolute;
+		left: 166px;
+		top: 139px;
+		overflow: visible;
+		width: 115px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: AkzidenzGrotesk;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(0,46,35,1);
+	}
+	#Category__Romance___History {
+		position: absolute;
+		left: 166px;
+		top: 105px;
+		overflow: visible;
+		width: 194px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: AkzidenzGrotesk;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(0,46,35,1);
+	}
+	#ID9780552174046 {
+		position: absolute;
+		width: 98px;
+		height: 149px;
+		left: 34px;
+		top: 38px;
+		overflow: visible;
+	}
+	#ID9781787462144 {
+		position: absolute;
+		width: 98px;
+		height: 149px;
+		left: 1359px;
+		top: 180px;
+		overflow: visible;
+	}
+	#Group_44 {
+		position: absolute;
+		width: 218px;
+		height: 23px;
+		left: 828px;
+		top: 392px;
+		overflow: visible;
+	}
+	#See_More_Books {
+		position: absolute;
+		left: 24px;
+		top: 0px;
+		overflow: visible;
+		width: 195px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: AkzidenzGrotesk;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 26px;
+		color: rgba(0,46,35,1);
+	}
+	.Rectangle_35 {
+		position: absolute;
+		overflow: visible;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 10px;
+	}
+	.Rectangle_36 {
+		width: 19.004px;
+		height: 1.924px;
+		position: absolute;
+		overflow: visible;
+		transform: translate(-864px, -1349px) matrix(1,0,0,1,864,1359.0399) rotate(90deg);
+		transform-origin: center;
+	}
+	#Daisy_Jones_by_TAYLOR_JENKINS {
+		position: absolute;
+		left: 1491px;
+		top: 166px;
+		overflow: visible;
+		width: 186px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: AkzidenzGrotesk;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(0,46,35,1);
+	}
+	#ID165_SEK_10__discount {
+		position: absolute;
+		left: 1491px;
+		top: 281px;
+		overflow: visible;
+		width: 126px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: AkzidenzGrotesk;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(0,46,35,1);
+	}
+	#Category__Romance_ {
+		position: absolute;
+		left: 1491px;
+		top: 247px;
+		overflow: visible;
+		width: 134px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: AkzidenzGrotesk;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(0,46,35,1);
+	}
+</style>
+
+</head>
+<body>
+<div id="readMore">
+	<svg class="Rectangle_30">
+		<rect fill="rgba(242,239,235,1)" stroke="rgba(112,112,112,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Rectangle_30" rx="0" ry="0" x="0" y="0" width="1920" height="462">
+		</rect>
+	</svg>
+	<div id="Read_More">
+		<span>Read More</span>
+	</div>
+	<svg class="Rectangle_1464">
+		<rect fill="rgba(255,255,255,1)" stroke="rgba(112,112,112,0)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Rectangle_1464" rx="0" ry="0" x="0" y="0" width="379" height="225">
+		</rect>
+	</svg>
+	<div id="Group_41">
+		<svg class="Rectangle_24">
+			<rect fill="rgba(255,255,255,1)" stroke="rgba(112,112,112,0)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Rectangle_24" rx="0" ry="0" x="0" y="0" width="379" height="225">
+			</rect>
+		</svg>
+		<div id="The_End_Of_The_Affair_by_Graha">
+			<span>The End Of The Affair<br/>by </span><span style="color:rgba(226,34,16,1);">Graham Greene</span>
+		</div>
+		<div id="ID99_SEK_0__discount">
+			<span>99 SEK</span><br><span style="font-size:20px;color:rgba(226,34,16,1);">0% discount</span>
+		</div>
+		<div id="Category__Classed_Books">
+			<span>Category: Classed Books</span>
+		</div>
+		<img id="ID9780099478447" src="./img/ID9780099478447.png">
+	</div>
+	<div id="Group_42">
+		<svg class="Rectangle_21">
+			<rect fill="rgba(255,255,255,1)" stroke="rgba(112,112,112,0)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Rectangle_21" rx="0" ry="0" x="0" y="0" width="379" height="225">
+			</rect>
+		</svg>
+		<div id="The_Course_of_Love_by_Alain_de">
+			<span>The Course of Love<br/>by </span><span style="color:rgba(226,34,16,1);">Alain de Botton</span>
+		</div>
+		<div id="ID200_SEK_50__discount">
+			<span>200 SEK</span><br><span style="font-size:20px;color:rgba(226,34,16,1);">50% discount</span>
+		</div>
+		<div id="Category__Romance">
+			<span>Category: Romance</span>
+		</div>
+		<img id="ID9780241962138" src="./img/ID9780241962138.png">
+	</div>
+	<div id="Group_43">
+		<svg class="Rectangle_22">
+			<rect fill="rgba(255,255,255,1)" stroke="rgba(112,112,112,0)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Rectangle_22" rx="0" ry="0" x="0" y="0" width="379" height="225">
+			</rect>
+		</svg>
+		<div id="Changing_Times_by_Jack_Sheffie">
+			<span>Changing Times<br/>by </span><span style="color:rgba(226,34,16,1);">Jack Sheffield</span>
+		</div>
+		<div id="ID108_SEK_0__discount">
+			<span>108 SEK</span><br><span style="font-size:20px;color:rgba(226,34,16,1);">0% discount</span>
+		</div>
+		<div id="Category__Romance___History">
+			<span>Category: Romance , History</span>
+		</div>
+		<img id="ID9780552174046" src="./img/ID9780552174046.png" >
+	</div>
+	<img id="ID9781787462144" src="./img/ID9781787462144.png">
+	<div id="Group_44">
+		<div id="See_More_Books">
+			<span>See More Books</span>
+		</div>
+		<svg class="Rectangle_35">
+			<rect fill="rgba(242,195,107,1)" id="Rectangle_35" rx="1" ry="1" x="0" y="0" width="19" height="2">
+			</rect>
+		</svg>
+		<svg class="Rectangle_36">
+			<rect fill="rgba(242,195,107,1)" id="Rectangle_36" rx="0.9622417092323303" ry="0.9622417092323303" x="0" y="0" width="19.004" height="1.924">
+			</rect>
+		</svg>
+	</div>
+	<div id="Daisy_Jones_by_TAYLOR_JENKINS">
+		<span>Daisy Jones<br/>by </span><span style="color:rgba(226,34,16,1);">TAYLOR JENKINS</span>
+	</div>
+	<div id="ID165_SEK_10__discount">
+		<span>165 SEK</span><br><span style="font-size:20px;color:rgba(226,34,16,1);">10% discount</span>
+	</div>
+	<div id="Category__Romance_">
+		<span>Category: Romance</span>
+	</div>
+</div>
+</body>
+</html>

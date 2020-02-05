@@ -1,0 +1,1579 @@
+.mediaViewInfo {
+	--web-view-name: shop-grid;
+	--web-view-id: shop_grid;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: shop_grid;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#shop_grid {
+	position: absolute;
+	width: 1920px;
+	height: 2532px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: shop-grid;
+	--web-view-id: shop_grid;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+.Rectangle_30 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 2538px;
+	left: 0px;
+	top: 0px;
+}
+#Showing_1_12_of_40_results__ {
+	position: absolute;
+	left: 677px;
+	top: 782px;
+	overflow: visible;
+	width: 368px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(11,55,44,1);
+}
+#Sort_By__ {
+	position: absolute;
+	left: 1444px;
+	top: 782px;
+	overflow: visible;
+	width: 94px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(11,55,44,1);
+}
+.Rectangle_1455 {
+	position: absolute;
+	overflow: visible;
+	width: 209px;
+	height: 36px;
+	left: 1550px;
+	top: 772px;
+}
+.Polygon_3 {
+	overflow: hidden;
+	position: absolute;
+	width: 9px;
+	height: 9px;
+	left: 1733px;
+	top: 780px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Polygon_4 {
+	overflow: hidden;
+	position: absolute;
+	width: 9px;
+	height: 9px;
+	transform: matrix(1,0,0,1,1733,791) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Default_sorting {
+	position: absolute;
+	left: 1575px;
+	top: 783px;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 19px;
+	color: rgba(131,131,131,1);
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 1244px;
+	height: 4px;
+	left: 676.5px;
+	top: 851.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#booksort {
+	position: absolute;
+	width: 233px;
+	height: 347px;
+	left: 677px;
+	top: 891px;
+	overflow: visible;
+}
+.Rectangle_1456 {
+	position: absolute;
+	overflow: visible;
+	width: 233px;
+	height: 293px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_37 {
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	height: 21px;
+	left: 211px;
+	top: 303px;
+}
+#add_to_cart {
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	left: 217px;
+	top: 308px;
+	overflow: visible;
+}
+.Rectangle_37_ {
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	height: 21px;
+	left: 182px;
+	top: 303px;
+}
+#heart {
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 187px;
+	top: 308px;
+	overflow: visible;
+}
+#Causality_ {
+	position: absolute;
+	left: 5px;
+	top: 306px;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,46,35,1);
+}
+#ID580_SEK_ {
+	transform: translate(0px, 0px) matrix(1,0,0,1,94.9167,307.5403) rotate(1deg);
+	transform-origin: center;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,46,35,1);
+}
+.Rectangle_1460 {
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	height: 33px;
+	left: 0px;
+	top: 0px;
+}
+#ID10__discount {
+	position: absolute;
+	left: 4px;
+	top: 7px;
+	overflow: visible;
+	width: 100px;
+	height: 20px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#booksort_bc {
+	position: absolute;
+	width: 233px;
+	height: 347px;
+	left: 677px;
+	top: 1290px;
+	overflow: visible;
+}
+.Rectangle_1456_bd {
+	position: absolute;
+	overflow: visible;
+	width: 233px;
+	height: 293px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_37_be {
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	height: 21px;
+	left: 211px;
+	top: 303px;
+}
+#add_to_cart_bf {
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	left: 217px;
+	top: 308px;
+	overflow: visible;
+}
+.Rectangle_37_bg {
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	height: 21px;
+	left: 182px;
+	top: 303px;
+}
+#heart_bh {
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 187px;
+	top: 308px;
+	overflow: visible;
+}
+#Causality__bi {
+	position: absolute;
+	left: 5px;
+	top: 306px;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,46,35,1);
+}
+#ID580_SEK__bj {
+	transform: translate(0px, 0px) matrix(1,0,0,1,94.9167,307.5403) rotate(1deg);
+	transform-origin: center;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,46,35,1);
+}
+.Rectangle_1460_bk {
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	height: 33px;
+	left: 0px;
+	top: 0px;
+}
+#ID10__discount_bl {
+	position: absolute;
+	left: 4px;
+	top: 7px;
+	overflow: visible;
+	width: 100px;
+	height: 20px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#booksort_bm {
+	position: absolute;
+	width: 233px;
+	height: 347px;
+	left: 960px;
+	top: 891px;
+	overflow: visible;
+}
+.Rectangle_1456_bn {
+	position: absolute;
+	overflow: visible;
+	width: 233px;
+	height: 293px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_37_bo {
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	height: 21px;
+	left: 211px;
+	top: 303px;
+}
+#add_to_cart_bp {
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	left: 217px;
+	top: 308px;
+	overflow: visible;
+}
+.Rectangle_37_bq {
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	height: 21px;
+	left: 182px;
+	top: 303px;
+}
+#heart_br {
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 187px;
+	top: 308px;
+	overflow: visible;
+}
+#Causality__bs {
+	position: absolute;
+	left: 5px;
+	top: 306px;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,46,35,1);
+}
+#ID580_SEK__bt {
+	transform: translate(0px, 0px) matrix(1,0,0,1,94.9167,307.5403) rotate(1deg);
+	transform-origin: center;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,46,35,1);
+}
+.Rectangle_1460_bu {
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	height: 33px;
+	left: 0px;
+	top: 0px;
+}
+#ID10__discount_bv {
+	position: absolute;
+	left: 4px;
+	top: 7px;
+	overflow: visible;
+	width: 100px;
+	height: 20px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#booksort_bw {
+	position: absolute;
+	width: 233px;
+	height: 347px;
+	left: 960px;
+	top: 1290px;
+	overflow: visible;
+}
+.Rectangle_1456_bx {
+	position: absolute;
+	overflow: visible;
+	width: 233px;
+	height: 293px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_37_by {
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	height: 21px;
+	left: 211px;
+	top: 303px;
+}
+#add_to_cart_bz {
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	left: 217px;
+	top: 308px;
+	overflow: visible;
+}
+.Rectangle_37_b {
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	height: 21px;
+	left: 182px;
+	top: 303px;
+}
+#heart_b {
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 187px;
+	top: 308px;
+	overflow: visible;
+}
+#Causality__b {
+	position: absolute;
+	left: 5px;
+	top: 306px;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,46,35,1);
+}
+#ID580_SEK__b {
+	transform: translate(0px, 0px) matrix(1,0,0,1,94.9167,307.5403) rotate(1deg);
+	transform-origin: center;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,46,35,1);
+}
+.Rectangle_1460_b {
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	height: 33px;
+	left: 0px;
+	top: 0px;
+}
+#ID10__discount_b {
+	position: absolute;
+	left: 4px;
+	top: 7px;
+	overflow: visible;
+	width: 100px;
+	height: 20px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#booksort_b {
+	position: absolute;
+	width: 233px;
+	height: 347px;
+	left: 1243px;
+	top: 891px;
+	overflow: visible;
+}
+.Rectangle_1456_b {
+	position: absolute;
+	overflow: visible;
+	width: 233px;
+	height: 293px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_37_ca {
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	height: 21px;
+	left: 211px;
+	top: 303px;
+}
+#add_to_cart_b {
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	left: 217px;
+	top: 308px;
+	overflow: visible;
+}
+.Rectangle_37_cb {
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	height: 21px;
+	left: 182px;
+	top: 303px;
+}
+#heart_cb {
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 187px;
+	top: 308px;
+	overflow: visible;
+}
+#Causality__cc {
+	position: absolute;
+	left: 5px;
+	top: 306px;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,46,35,1);
+}
+#ID580_SEK__cd {
+	transform: translate(0px, 0px) matrix(1,0,0,1,94.9167,307.5403) rotate(1deg);
+	transform-origin: center;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,46,35,1);
+}
+.Rectangle_1460_ce {
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	height: 33px;
+	left: 0px;
+	top: 0px;
+}
+#ID10__discount_cf {
+	position: absolute;
+	left: 4px;
+	top: 7px;
+	overflow: visible;
+	width: 100px;
+	height: 20px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#booksort_cg {
+	position: absolute;
+	width: 233px;
+	height: 347px;
+	left: 1243px;
+	top: 1290px;
+	overflow: visible;
+}
+.Rectangle_1456_ch {
+	position: absolute;
+	overflow: visible;
+	width: 233px;
+	height: 293px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_37_ci {
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	height: 21px;
+	left: 211px;
+	top: 303px;
+}
+#add_to_cart_cj {
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	left: 217px;
+	top: 308px;
+	overflow: visible;
+}
+.Rectangle_37_ck {
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	height: 21px;
+	left: 182px;
+	top: 303px;
+}
+#heart_cl {
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 187px;
+	top: 308px;
+	overflow: visible;
+}
+#Causality__cm {
+	position: absolute;
+	left: 5px;
+	top: 306px;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,46,35,1);
+}
+#ID580_SEK__cn {
+	transform: translate(0px, 0px) matrix(1,0,0,1,94.9167,307.5403) rotate(1deg);
+	transform-origin: center;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,46,35,1);
+}
+.Rectangle_1460_co {
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	height: 33px;
+	left: 0px;
+	top: 0px;
+}
+#ID10__discount_cp {
+	position: absolute;
+	left: 4px;
+	top: 7px;
+	overflow: visible;
+	width: 100px;
+	height: 20px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#booksort_cq {
+	position: absolute;
+	width: 233px;
+	height: 347px;
+	left: 1526px;
+	top: 891px;
+	overflow: visible;
+}
+.Rectangle_1456_cr {
+	position: absolute;
+	overflow: visible;
+	width: 233px;
+	height: 293px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_37_cs {
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	height: 21px;
+	left: 211px;
+	top: 303px;
+}
+#add_to_cart_ct {
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	left: 217px;
+	top: 308px;
+	overflow: visible;
+}
+.Rectangle_37_cu {
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	height: 21px;
+	left: 182px;
+	top: 303px;
+}
+#heart_cv {
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 187px;
+	top: 308px;
+	overflow: visible;
+}
+#Causality__cw {
+	position: absolute;
+	left: 5px;
+	top: 306px;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,46,35,1);
+}
+#ID580_SEK__cx {
+	transform: translate(0px, 0px) matrix(1,0,0,1,94.9167,307.5403) rotate(1deg);
+	transform-origin: center;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,46,35,1);
+}
+.Rectangle_1460_cy {
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	height: 33px;
+	left: 0px;
+	top: 0px;
+}
+#ID10__discount_cz {
+	position: absolute;
+	left: 4px;
+	top: 7px;
+	overflow: visible;
+	width: 100px;
+	height: 20px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#booksort_c {
+	position: absolute;
+	width: 233px;
+	height: 347px;
+	left: 1526px;
+	top: 1290px;
+	overflow: visible;
+}
+.Rectangle_1456_c {
+	position: absolute;
+	overflow: visible;
+	width: 233px;
+	height: 293px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_37_c {
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	height: 21px;
+	left: 211px;
+	top: 303px;
+}
+#add_to_cart_c {
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	left: 217px;
+	top: 308px;
+	overflow: visible;
+}
+.Rectangle_37_da {
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	height: 21px;
+	left: 182px;
+	top: 303px;
+}
+#heart_c {
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 187px;
+	top: 308px;
+	overflow: visible;
+}
+#Causality__c {
+	position: absolute;
+	left: 5px;
+	top: 306px;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,46,35,1);
+}
+#ID580_SEK__c {
+	transform: translate(0px, 0px) matrix(1,0,0,1,94.9167,307.5403) rotate(1deg);
+	transform-origin: center;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,46,35,1);
+}
+.Rectangle_1460_c {
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	height: 33px;
+	left: 0px;
+	top: 0px;
+}
+#ID10__discount_c {
+	position: absolute;
+	left: 4px;
+	top: 7px;
+	overflow: visible;
+	width: 100px;
+	height: 20px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#menu {
+	position: absolute;
+	width: 888px;
+	height: 18px;
+	left: 134px;
+	top: 164px;
+	overflow: visible;
+}
+#Romance {
+	position: absolute;
+	left: 441px;
+	top: 1px;
+	overflow: visible;
+	width: 86px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Classic_Books {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Kids {
+	position: absolute;
+	left: 162px;
+	top: 1px;
+	overflow: visible;
+	width: 40px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Thrillers {
+	position: absolute;
+	left: 236px;
+	top: 1px;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#History {
+	position: absolute;
+	left: 343px;
+	top: 1px;
+	overflow: visible;
+	width: 64px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Discount {
+	position: absolute;
+	left: 561px;
+	top: 1px;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#About_us {
+	position: absolute;
+	left: 676px;
+	top: 1px;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Contact_us {
+	position: absolute;
+	left: 791px;
+	top: 0px;
+	overflow: visible;
+	width: 98px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#searchbar {
+	position: absolute;
+	width: 774px;
+	height: 58px;
+	left: 451px;
+	top: 39px;
+	overflow: visible;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 774px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+}
+#search {
+	position: absolute;
+	width: 38px;
+	height: 38px;
+	left: 719px;
+	top: 10px;
+	overflow: visible;
+}
+#logo {
+	position: absolute;
+	width: 162px;
+	height: 72.411px;
+	left: 118px;
+	top: 37px;
+	overflow: visible;
+}
+#Group_4 {
+	position: absolute;
+	width: 162px;
+	height: 72.411px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_5 {
+	position: absolute;
+	width: 160.261px;
+	height: 70.673px;
+	left: 0.869px;
+	top: 0.522px;
+	overflow: visible;
+}
+#Singin {
+	position: absolute;
+	width: 128px;
+	height: 58px;
+	left: 1457px;
+	top: 37px;
+	overflow: visible;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+}
+#Sing_in {
+	position: absolute;
+	left: 45px;
+	top: 20px;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#login {
+	position: absolute;
+	width: 38px;
+	height: 38px;
+	left: 7px;
+	top: 10px;
+	overflow: visible;
+}
+#wish {
+	position: absolute;
+	width: 64px;
+	height: 58px;
+	left: 1605px;
+	top: 39px;
+	overflow: visible;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+}
+#heart_ef {
+	position: absolute;
+	width: 35px;
+	height: 35px;
+	left: 15px;
+	top: 13px;
+	overflow: visible;
+}
+#cart {
+	position: absolute;
+	width: 64px;
+	height: 58px;
+	left: 1689px;
+	top: 39px;
+	overflow: visible;
+}
+.Rectangle_37_eh {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+}
+#shopping_cart {
+	position: absolute;
+	width: 37px;
+	height: 37px;
+	left: 14px;
+	top: 11px;
+	overflow: visible;
+}
+#Banner {
+	position: absolute;
+	width: 1920px;
+	height: 586.117px;
+	left: 0px;
+	top: 148px;
+	overflow: visible;
+}
+.Rectangle_30_ek {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 486px;
+	left: 0px;
+	top: 54.909px;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 481px;
+	left: 0px;
+	top: 59.909px;
+}
+#NewspaperDesign_gestalten_book {
+	position: absolute;
+	width: 612.885px;
+	height: 586.117px;
+	left: 1193.838px;
+	top: 0px;
+	overflow: visible;
+}
+.Polygon_1 {
+	overflow: hidden;
+	position: absolute;
+	width: 44px;
+	height: 38px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,1843,281.9092) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Polygon_2 {
+	overflow: hidden;
+	position: absolute;
+	width: 44px;
+	height: 38px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,14,281.9092) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Group_16 {
+	position: absolute;
+	width: 789px;
+	height: 297px;
+	left: 171.5px;
+	top: 168.409px;
+	overflow: visible;
+}
+#NEWSPAPER_DESIGN_EDITORIAL_DES {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+	width: 790px;
+	height: 297px;
+	text-align: left;
+	font-family: Shaky Hand Some Comic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 100px;
+	color: rgba(31,64,45,1);
+}
+.Rectangle_33 {
+	position: absolute;
+	overflow: visible;
+	width: 35px;
+	height: 3px;
+	left: 0.5px;
+	top: 238.5px;
+}
+.Rectangle_34 {
+	width: 35.769px;
+	height: 3.622px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(-171.5px, -329.5px) matrix(1,0,0,1,172,567.5735) rotate(90deg);
+	transform-origin: center;
+}
+#Footer {
+	position: absolute;
+	width: 1920px;
+	height: 336px;
+	left: 0px;
+	top: 2196px;
+	overflow: visible;
+}
+#Repeat_Grid_1 {
+	position: absolute;
+	width: 1920px;
+	height: 336px;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+}
+#Repeat_Grid_1_0 {
+	position: absolute;
+	width: 1920px;
+	height: 548px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_26 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 548px;
+	left: 0px;
+	top: 0px;
+}
+#Terms___Conditions {
+	position: absolute;
+	left: 1501px;
+	top: 143px;
+	overflow: visible;
+	width: 177px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Our_Team_ {
+	position: absolute;
+	left: 1501px;
+	top: 100px;
+	overflow: visible;
+	width: 96px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Privacy_policy {
+	position: absolute;
+	left: 1501px;
+	top: 186px;
+	overflow: visible;
+	width: 123px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Group_15 {
+	position: absolute;
+	width: 280px;
+	height: 125.155px;
+	left: 165px;
+	top: 89.481px;
+	overflow: visible;
+}
+#Group_13 {
+	position: absolute;
+	width: 280px;
+	height: 125.155px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_14 {
+	position: absolute;
+	width: 276.995px;
+	height: 122.15px;
+	left: 1.502px;
+	top: 0.901px;
+	overflow: visible;
+}
+#Newsletter {
+	position: absolute;
+	width: 1920px;
+	height: 408px;
+	left: 0px;
+	top: 1788px;
+	overflow: visible;
+}
+.Rectangle_25 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 408px;
+	left: 0px;
+	top: 0px;
+}
+#Learn_about_new_offers_and_get {
+	position: absolute;
+	left: 421px;
+	top: 46px;
+	overflow: visible;
+	width: 1080px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#Your_Full_Name {
+	position: absolute;
+	left: 491px;
+	top: 137px;
+	overflow: visible;
+	width: 174px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Email_Address {
+	position: absolute;
+	left: 491px;
+	top: 219px;
+	overflow: visible;
+	width: 163px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+.Rectangle_27 {
+	position: absolute;
+	overflow: visible;
+	width: 734px;
+	height: 58px;
+	left: 711px;
+	top: 116px;
+}
+.Rectangle_28 {
+	position: absolute;
+	overflow: visible;
+	width: 734px;
+	height: 58px;
+	left: 711px;
+	top: 198px;
+}
+.Rectangle_29 {
+	position: absolute;
+	overflow: visible;
+	width: 302px;
+	height: 58px;
+	left: 823.5px;
+	top: 295px;
+}
+#Sing_Up_Now {
+	position: absolute;
+	left: 909px;
+	top: 313px;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(45,108,115,1);
+}
+#liftslider {
+	position: absolute;
+	width: 555.5px;
+	height: 532px;
+	left: 33px;
+	top: 782px;
+	overflow: visible;
+}
+#PRODUCT_CATEGORIES_ {
+	position: absolute;
+	left: 137.5px;
+	top: 0px;
+	overflow: visible;
+	width: 332px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AkzidenzGrotesk;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(11,55,44,1);
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 555px;
+	height: 4px;
+	left: 0px;
+	top: 69.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Classic_______________________ {
+	position: absolute;
+	left: 137.5px;
+	top: 115px;
+	overflow: hidden;
+	width: 419px;
+	height: 27px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(112,112,112,1);
+}
+#History_______________________ {
+	position: absolute;
+	left: 137.5px;
+	top: 180px;
+	overflow: hidden;
+	width: 419px;
+	height: 27px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(112,112,112,1);
+}
+#Inspiration___________________ {
+	position: absolute;
+	left: 137.5px;
+	top: 245px;
+	overflow: hidden;
+	width: 419px;
+	height: 27px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(112,112,112,1);
+}
+#Kids__________________________ {
+	position: absolute;
+	left: 137.5px;
+	top: 310px;
+	overflow: hidden;
+	width: 419px;
+	height: 27px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(112,112,112,1);
+}
+#Romance_______________________ {
+	position: absolute;
+	left: 137.5px;
+	top: 375px;
+	overflow: hidden;
+	width: 419px;
+	height: 27px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(112,112,112,1);
+}
+#Thrillers_____________________ {
+	position: absolute;
+	left: 137.5px;
+	top: 440px;
+	overflow: hidden;
+	width: 419px;
+	height: 27px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(112,112,112,1);
+}
+#Discount______________________ {
+	position: absolute;
+	left: 137.5px;
+	top: 505px;
+	overflow: hidden;
+	width: 419px;
+	height: 27px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(112,112,112,1);
+}
